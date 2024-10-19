@@ -22,4 +22,4 @@ Game Uno
 BookShop
 
 Công nghệ sử dụng
-HTML - CSS - JAVA - Flutter - React - NODE JS - SQL Sever
+HTML - CSS - JAVA - Flutter - React - NODE JS - SQL Server
